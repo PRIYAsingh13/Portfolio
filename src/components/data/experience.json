@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "role": "BootCamp",
+    "organisation": "Aircampus",
+    "startDate": "Sept, 2022",
+    "endDate": "2023",
+    "location": "Bangluru"
+    ,
+    "experiences": [
+      "Worked on Nextflix payment system",
+      "Helped to create UI for video player"
+    ],
+    "imageSrc": "company/p2.jpeg"
+  },
+  {
+    "id": 2,
+    "role": "Developer",
+    "organisation": "11 Avatar Digitl Hub",
+    "startDate": "March, 2023",
+    "endDate": " 2024",
+    "location": "Delhi" ,
+    "experiences": [
+      "Worked on Nextflix payment system",
+      "Helped to create UI for video player"
+    ],
+    "imageSrc": "company/p2.jpeg"
+    
+    
+  }
+]
